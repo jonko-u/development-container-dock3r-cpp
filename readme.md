@@ -72,7 +72,7 @@ RUN if [ "${REINSTALL_CMAKE_VERSION_FROM_SOURCE}" != "none" ]; then \
 #     && apt-get -y install --no-install-recommends <your-package-list-here>
 
 ```
-
+## To sum up:
 By creating and sharing Docker images with your team, everyone can work in the same development environment, ensuring consistency, reproducibility, and easy collaboration.
 
 Overall, Docker provides a powerful way to manage development environments and facilitate collaboration within a development team, including C++ development. It helps streamline the development and deployment process while ensuring a consistent and isolated environment.
